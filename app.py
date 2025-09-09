@@ -10,7 +10,7 @@ st.markdown(
 
     ### Destaque Especial:
     - *Ferrari F90* — **R$ 9.500.000**
-    ### Gabriel o. UNICO DONO 
+    ### Gabriel  O.     UNICO DONO 
     ---
     💎 **Exclusividade para colecionadores de supercarros!**
     """
@@ -21,4 +21,5 @@ st.image(
     caption="Ferrari F90 - Edição Exclusiva",
     use_column_width=True
 )
+
 
