@@ -1,7 +1,7 @@
 import streamlit as st 
 
-st.title("meus projetos🤬")
-st.caption("criando com streamlit😡")
+st.title("meus projetos🏎️")
+st.caption("criando com streamlit🏎️")
 st.image("https://i.pinimg.com/1200x/ab/e5/fc/abe5fc1b7ca33d8b59fbbc6c85583d0d.jpg")
 
 st.markdown(
@@ -22,6 +22,7 @@ st.image(
     caption="Ferrari F90 - Edição Exclusiva",
     use_column_width=True
 )
+
 
 
 
